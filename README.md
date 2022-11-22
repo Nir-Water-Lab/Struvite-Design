@@ -1,6 +1,6 @@
 # Struvite-Design
 
-## This program is an advanced tool for the design and cost estimation of struvite precipitation processes from wastewater streams
+## This program is an advanced tool for the design and cost estimation of struvite precipitation processes from wastewater streams.
 
 <img src = https://github.com/Nir-Water-Lab/Struvite-Design/blob/main/struvite%20program/Struvite%20Gui%20pic.PNG>
 
